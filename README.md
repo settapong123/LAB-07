@@ -334,6 +334,13 @@ namespace thruthTable
 6. Exclusive OR
 ```
 
+![](https://github.com/settapong123/LAB-07/blob/master/lab73and.JPG?raw=true)
+![](https://github.com/settapong123/LAB-07/blob/master/lab74or.JPG?raw=true)
+![](https://github.com/settapong123/LAB-07/blob/master/lab75not.JPG?raw=true)
+![](https://github.com/settapong123/LAB-07/blob/master/lab76nand.JPG?raw=true)
+![](https://github.com/settapong123/LAB-07/blob/master/lab77nor.JPG?raw=true)
+![](https://github.com/settapong123/LAB-07/blob/master/lab78xor.JPG?raw=true)
+
 
 
   2.2.2.	ชนิดข้อมูลตัวเลขจำนวนเต็ม (Integer Types)
