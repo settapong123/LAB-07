@@ -615,4 +615,8 @@ The sine of       6.00 = -0.279415         *
 2.	y = cos(x)
 3.	y = tan(x)
 ```
-	
+1.![](https://github.com/settapong123/LAB-07/blob/master/lab703.JPG?raw=true)
+
+2.![](https://github.com/settapong123/LAB-07/blob/master/lab704.JPG?raw=true)
+
+3.![](https://github.com/settapong123/LAB-07/blob/master/lab705.JPG?raw=true)
