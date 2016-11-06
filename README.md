@@ -146,6 +146,9 @@ namespace Lab7
 
 ```
 
+![](https://github.com/settapong123/LAB-07/blob/master/lab70.JPG?raw=true)
+![](https://github.com/settapong123/LAB-07/blob/master/lab701.JPG?raw=true)
+
 **หมายเหตุ**
  
 ชนิดข้อมูล ```bool``` เก็บข้อมูลได้เฉพาะ ```true``` และ ```false``` ไม่ต้องหา ```MinValue``` และ ```MaxValue```
