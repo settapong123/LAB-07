@@ -209,7 +209,38 @@ namespace RandomNumber
 
 1. สร้างตัวแปร boolean โดยเก็บค่าที่ได้จากการเปรียบเทียบตัวเลขในข้อ 1 และ 2
 
+```csharp
+using System;
+namespace RandomNumber
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Random random1 = new Random();
+            int randomNumber1 = random1.Next(0, 9);
+            Console.WriteLine("1. Random 0 - 9");
+            Console.WriteLine("    Random1 = {0} ", randomNumber1);
+            Console.WriteLine("");
+
+            Random random2 = new Random();
+            int randomNumber2 = random1.Next(0, 9);
+            Console.WriteLine("2. Random 0 - 9");
+            Console.WriteLine("    Random2 = {0} ", randomNumber2);
+            Console.WriteLine("");
+
+            bool a = randomNumber1 > randomNumber2;
+            Console.WriteLine("Logis is {0}", a);
+        }
+    }
+}
+
+```
+
+
 1. ให้พิมพ์ค่าตัวแปร boolean ในข้อ 3 ออกทางหน้าจอ
+
+![](https://github.com/settapong123/LAB-07/blob/master/lab72.JPG?raw=true)
 
 
 ##การเขียนโปรแกรมด้วยตัวดำเนินการทางตรรกะ
